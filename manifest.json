@@ -1,0 +1,12 @@
+{
+    "name":"Taj's Chrome Extension",
+    "version":"1.0.0",
+    "description":"Cricket Score Shortcut",
+    "manifest_version":3,
+    "author":"TAJ",
+    "action":{
+        "default_popup":"index.html",
+        "default_title":"TAJ'S Chrome Extension",
+        "default_icon":"CG.png"
+    }
+}
